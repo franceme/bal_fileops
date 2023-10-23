@@ -1,0 +1,5 @@
+[package]
+org = "frantzme"
+name = "fileops"
+version = "0.0.4"
+distribution = "2201.7.1"
